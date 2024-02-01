@@ -1,0 +1,1 @@
+This is code for a astromech using the nicla vision arduino module to give the droid the ability to be somewhat automatic. You can use an r2 unit or another droid and position the arduino properly on the robot. The droid can then take in microphone or camera data and make decisions such as running the servos or speakers.
